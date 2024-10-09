@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest
+.cache/
+*.cover
+*.log
+*.xml
+*.html
+*.json
+*.pdb
+
+# Selenium
+selenium_test_output/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+.DS_Store
+*.egg-info/
+*.egg
+*.whl
+*.sqlite3
+*.db
+
+*.bak
+*.tmp
+*.swp
